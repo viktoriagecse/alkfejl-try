@@ -1,2 +1,2 @@
 # alkfejl-try
-Trying put github
+Trying out github
